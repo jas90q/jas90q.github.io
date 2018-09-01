@@ -1,3 +1,17 @@
-h1 {
+#header {
   color:#0e4091;
+  background-color:#dce6f7;
+  padding-top:50px;
+  padding-bottom:50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  color:#333333;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#content {
+  padding-left:20px;
 }
